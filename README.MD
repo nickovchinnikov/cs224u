@@ -17,6 +17,8 @@ Repo includes Lectures and Homework assignments.
 3. [Retrofitting](./3.Retrofitting.py)
 4. [Static Representations](./4.StaticRepresentations.py)
 5. [Homework 1](./5.HW1.py)
+6. [Supervised Sentiment analysis](./6.SupervisedSentiment.py)
+7. [Feature Function and Hyperparameter Search](./7.FeatureFunction.py)
 
 ## License
 
